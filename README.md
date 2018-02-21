@@ -1,0 +1,2 @@
+- Example from https://github.com/actix/actix/blob/49ab5015edce70d56b934f435aeb7f6d15c80f63/examples/fibonacci.rs
+- Doc https://docs.rs/actix/0.5.0/actix/sync/index.html
