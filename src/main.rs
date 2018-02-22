@@ -39,6 +39,7 @@ impl Handler<Fibonacci> for SyncActor {
                 curr = sum;
                 i += 1;
             }
+            println!("{}", sum);
             Ok(sum)
         }
    }
